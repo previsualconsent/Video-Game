@@ -6,9 +6,8 @@
 
 
 #include "globals.h"
-
-
 #include "sprite.h"
+#include "aniSprite.h"
 
 using namespace std;
 
@@ -69,7 +68,7 @@ int main(int argc, char **argv)
       return -1;
    }
 
-   sprite bouncer(bouncer_startx,bouncer_starty,"ball.2.bmp");
+   aniSprite bouncer(bouncer_startx,bouncer_starty,"ball.bmp",2);
    //bouncer = al_create_bitmap(BOUNCER_SIZE, BOUNCER_SIZE);
    //if(!bouncer) {
      // fprintf(stderr, "failed to create bouncer bitmap!\n");
@@ -143,6 +142,7 @@ cout << "hello\n";
          if(bouncer_y < PADDLE_H && paddle_x<bouncer_x+BOUNCER_SIZE && paddle_x+PADDLE_W>bouncer_x){
              bouncer_ydir = -bouncer_ydir;
              bouncer_speed = bouncer_speed*1.1;
+             bouncer.advanceFrame();
          }
          if(bouncer_y <0){
             bouncer_y=bouncer_starty;

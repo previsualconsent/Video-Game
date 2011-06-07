@@ -22,12 +22,13 @@ class sprite
         ALLEGRO_BITMAP *bitmap;
         //void Setbitmap(ALLEGRO_BITMAP val) { bitmap = val; }
     protected:
-    private:
-
         Coords position;
         int height;
         int width;
         string filename;
+    private:
+
+
 
 };
 
