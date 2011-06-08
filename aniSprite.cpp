@@ -43,8 +43,7 @@ void aniSprite::advanceFrame()
     if(currentFrame == numFrames) {
         currentFrame=0;
     }
-    cout << "current frame:" << currentFrame;
-    cout << "numFrames:" << numFrames << endl;
+
     bitmap = frames[currentFrame];
     draw();
 }
