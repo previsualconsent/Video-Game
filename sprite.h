@@ -6,7 +6,9 @@
 #include "coords.h"
 #include "globals.h"
 
-using namespace std;
+using namespace std; 
+
+// rawr
 
 class sprite
 {
