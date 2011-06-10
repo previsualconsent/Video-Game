@@ -1,0 +1,491 @@
+system   W D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\wsystem.c:550  load_library_at_path             [   0.02912] Failed to load D:\Programming\AllegroGit\d3d9.dll (error: 126)
+system   I D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\wsystem.c:543  load_library_at_path             [   0.03252] Loaded C:\Windows\system32\d3d9.dll
+d3d      I D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:879  _al_d3d_init_display             [   0.08140] Render-to-texture: 1
+system   I D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\system.c:268  al_install_system                [   0.08150] Allegro version: 5.0.2
+d3d      I D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1919 d3d_create_display_locked        [   0.08574] faux_fullscreen=0
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08767] Score is : 897
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08771] Score is : 897
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08773] Score is : 897
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08775] Score is : 897
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08777] Score is : 769
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08778] Score is : 737
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08780] Score is : 726
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08782] Score is : 721
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08784] Score is : 717
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08785] Score is : 715
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08787] Score is : 714
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08789] Score is : 713
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08791] Score is : 769
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08792] Score is : 737
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08794] Score is : 726
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08796] Score is : 721
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08798] Score is : 717
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08799] Score is : 715
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08801] Score is : 714
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08803] Score is : 713
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08805] Score is : 769
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08814] Score is : 737
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08816] Score is : 726
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08818] Score is : 721
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08820] Score is : 717
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08822] Score is : 715
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08823] Score is : 714
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08825] Score is : 713
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08827] Score is : 769
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08829] Score is : 737
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08830] Score is : 726
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08832] Score is : 721
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08834] Score is : 717
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08835] Score is : 715
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08837] Score is : 714
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08839] Score is : 713
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08841] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08842] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08844] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08846] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08848] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08849] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08851] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08853] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08855] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08860] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08863] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08865] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08867] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08868] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08870] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08872] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08874] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08876] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08877] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08879] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08881] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08883] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08884] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08886] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08888] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08890] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08891] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08893] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08895] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08897] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08899] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08900] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08902] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08904] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08906] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08908] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08910] Score is : 769
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08911] Score is : 769
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08913] Score is : 769
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08915] Score is : 769
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08917] Score is : 769
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08919] Score is : 641
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08920] Score is : 609
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08922] Score is : 598
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08924] Score is : 593
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08925] Score is : 589
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08927] Score is : 587
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08929] Score is : 586
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08931] Score is : 585
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08932] Score is : 641
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08934] Score is : 609
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08936] Score is : 598
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08938] Score is : 593
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08939] Score is : 589
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08941] Score is : 587
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08943] Score is : 586
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08945] Score is : 585
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08950] Score is : 641
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08952] Score is : 609
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08954] Score is : 598
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08956] Score is : 593
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08958] Score is : 589
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08959] Score is : 587
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08961] Score is : 586
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08963] Score is : 585
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08965] Score is : 641
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08967] Score is : 609
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08968] Score is : 598
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08970] Score is : 593
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08972] Score is : 589
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08974] Score is : 587
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08975] Score is : 586
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08977] Score is : 585
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08979] Score is : 641
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08981] Score is : 609
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08982] Score is : 598
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08984] Score is : 593
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08986] Score is : 589
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08988] Score is : 587
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08989] Score is : 586
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.08991] Score is : 585
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08993] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08995] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08997] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.08999] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09001] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09003] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09005] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09006] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09008] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09010] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09012] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09013] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09015] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09017] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09019] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09020] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09022] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09024] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09026] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09028] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09029] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09031] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09033] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09035] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09037] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09039] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09040] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09042] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09044] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09046] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09048] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09049] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09051] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09053] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09055] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09056] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09058] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09060] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09062] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09064] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09065] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09067] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09069] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09071] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09072] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09074] Score is : 897
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09076] Score is : 897
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09078] Score is : 897
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09080] Score is : 897
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09082] Score is : 897
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09084] Score is : 897
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09085] Score is : 897
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09087] Score is : 769
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09089] Score is : 737
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09091] Score is : 726
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09092] Score is : 721
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09094] Score is : 717
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09096] Score is : 715
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09098] Score is : 714
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09099] Score is : 713
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09101] Score is : 769
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09103] Score is : 737
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09105] Score is : 726
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09106] Score is : 721
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09108] Score is : 717
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09110] Score is : 715
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09112] Score is : 714
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09113] Score is : 713
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09115] Score is : 769
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09117] Score is : 737
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09119] Score is : 726
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09121] Score is : 721
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09122] Score is : 717
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09128] Score is : 715
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09130] Score is : 714
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09132] Score is : 713
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09134] Score is : 769
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09136] Score is : 737
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09138] Score is : 726
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09139] Score is : 721
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09141] Score is : 717
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09143] Score is : 715
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09145] Score is : 714
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09146] Score is : 713
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09148] Score is : 769
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09150] Score is : 737
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09152] Score is : 726
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09153] Score is : 721
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09155] Score is : 717
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09157] Score is : 715
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09159] Score is : 714
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09161] Score is : 713
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09163] Score is : 769
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09164] Score is : 737
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09166] Score is : 726
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09168] Score is : 721
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09170] Score is : 717
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09172] Score is : 715
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09174] Score is : 714
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09176] Score is : 713
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09177] Score is : 769
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09179] Score is : 737
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09181] Score is : 726
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09183] Score is : 721
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09184] Score is : 717
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09186] Score is : 715
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09188] Score is : 714
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09190] Score is : 713
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09200] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09202] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09204] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09206] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09208] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09209] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09211] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09213] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09215] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09216] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09218] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09220] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09222] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09223] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09225] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09227] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09229] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09231] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09233] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09235] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09236] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09238] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09240] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09242] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09243] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09245] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09247] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09249] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09250] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09252] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09254] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09256] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09258] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09259] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09261] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09263] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09268] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09270] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09272] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09274] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09276] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09277] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09279] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09281] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09283] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09284] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09286] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09288] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09290] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09291] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09293] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09295] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09297] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09298] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09300] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09302] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09304] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09305] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09307] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09309] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09311] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09313] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09315] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09317] Score is : 769
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09318] Score is : 769
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09320] Score is : 769
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09322] Score is : 769
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09324] Score is : 769
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09325] Score is : 769
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09327] Score is : 769
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09329] Score is : 641
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09330] Score is : 609
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09332] Score is : 598
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09334] Score is : 593
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09336] Score is : 589
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09337] Score is : 587
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09339] Score is : 586
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09341] Score is : 585
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09343] Score is : 641
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09344] Score is : 609
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09346] Score is : 598
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09348] Score is : 593
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09350] Score is : 589
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09351] Score is : 587
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09353] Score is : 586
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09355] Score is : 585
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09357] Score is : 641
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09359] Score is : 609
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09361] Score is : 598
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09363] Score is : 593
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09369] Score is : 589
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09371] Score is : 587
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09373] Score is : 586
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09374] Score is : 585
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09376] Score is : 641
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09378] Score is : 609
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09380] Score is : 598
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09381] Score is : 593
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09383] Score is : 589
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09385] Score is : 587
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09387] Score is : 586
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09388] Score is : 585
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09390] Score is : 641
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09392] Score is : 609
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09394] Score is : 598
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09395] Score is : 593
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09397] Score is : 589
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09399] Score is : 587
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09400] Score is : 586
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09402] Score is : 585
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09404] Score is : 641
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09406] Score is : 609
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09408] Score is : 598
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09410] Score is : 593
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09412] Score is : 589
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09413] Score is : 587
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09415] Score is : 586
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09417] Score is : 585
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09419] Score is : 641
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09420] Score is : 609
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09422] Score is : 598
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09424] Score is : 593
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09426] Score is : 589
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09427] Score is : 587
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09429] Score is : 586
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:486  _al_score_display_settings       [   0.09431] Score is : 585
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09432] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09434] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09436] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09438] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09439] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09441] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09443] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09445] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09446] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09449] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09451] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09452] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09454] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09456] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09458] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09459] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09461] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09463] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09468] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09470] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09472] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09474] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09476] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09477] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09479] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09481] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09483] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09485] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09486] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09488] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09490] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09492] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09499] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09501] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09503] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09505] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09506] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09508] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09510] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09512] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09513] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09515] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09517] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09519] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09520] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09522] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09524] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09526] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09527] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09529] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09531] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09533] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09535] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09536] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09538] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09540] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09542] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09544] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09546] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09547] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09549] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09551] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:357  _al_score_display_settings       [   0.09553] Single Buffer requirement not met.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:197  _al_score_display_settings       [   0.09554] Display not compatible with Allegro.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:197  _al_score_display_settings       [   0.09556] Display not compatible with Allegro.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:197  _al_score_display_settings       [   0.09558] Display not compatible with Allegro.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:197  _al_score_display_settings       [   0.09560] Display not compatible with Allegro.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:197  _al_score_display_settings       [   0.09561] Display not compatible with Allegro.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:197  _al_score_display_settings       [   0.09564] Display not compatible with Allegro.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:197  _al_score_display_settings       [   0.09565] Display not compatible with Allegro.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:197  _al_score_display_settings       [   0.09567] Display not compatible with Allegro.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:197  _al_score_display_settings       [   0.09569] Display not compatible with Allegro.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:197  _al_score_display_settings       [   0.09571] Display not compatible with Allegro.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:197  _al_score_display_settings       [   0.09572] Display not compatible with Allegro.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:197  _al_score_display_settings       [   0.09574] Display not compatible with Allegro.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:197  _al_score_display_settings       [   0.09576] Display not compatible with Allegro.
+display  D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\display_settings.c:197  _al_score_display_settings       [   0.09578] Display not compatible with Allegro.
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1836 d3d_create_display_internals     [   0.09592] Trying format 0 of 428.
+d3d      I D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1514 d3d_display_thread_proc          [   0.09625] Chose a display format: 23
+d3d      I D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1583 d3d_display_thread_proc          [   0.09627] Normal window.
+d3d      I D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:978  d3d_create_device                [   0.11312] Using no depth stencil buffer
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1058 d3d_create_device                [   0.15282] BeginScene succeeded in create_device
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1066 d3d_create_device                [   0.15288] Success
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1859 d3d_create_display_internals     [   0.15291] Resumed after wait.
+d3d      I D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1884 d3d_create_display_internals     [   0.15307] Format 0 succeeded.
+dtor     D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\dtor.c:184  _al_register_destructor          [   0.18296] added dtor for object 00B7F428, func 6B5CE34B
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.20367] Fake format
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.20370] Fake format
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.20372] Fake format
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.20374] Fake format
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.20375] Fake format
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.20377] Fake format
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.20379] Fake format
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.20380] Fake format
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.20382] Fake format
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1362 real_choose_bitmap_format        [   0.20384] Alpha doesn't match
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1369 real_choose_bitmap_format        [   0.20385] Adapter format is 23
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1372 real_choose_bitmap_format        [   0.20387] Found a format
+d3d      I D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:2446 _al_d3d_create_bitmap            [   0.20389] Chose bitmap format 9
+dtor     D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\dtor.c:184  _al_register_destructor          [   0.20451] added dtor for object 01FA1918, func 6B563D5F
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   0.20473] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   0.20476] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.20883] Fake format
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.20886] Fake format
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.20888] Fake format
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.20890] Fake format
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.20892] Fake format
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.20893] Fake format
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.20895] Fake format
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.20897] Fake format
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.20898] Fake format
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1362 real_choose_bitmap_format        [   0.20900] Alpha doesn't match
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1369 real_choose_bitmap_format        [   0.20902] Adapter format is 23
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1372 real_choose_bitmap_format        [   0.20904] Found a format
+d3d      I D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:2446 _al_d3d_create_bitmap            [   0.20905] Chose bitmap format 9
+dtor     D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\dtor.c:184  _al_register_destructor          [   0.20932] added dtor for object 00B7F750, func 6B563D5F
+dtor     D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\dtor.c:184  _al_register_destructor          [   0.20938] added dtor for object 00B7F858, func 6B57CC8C
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   0.25299] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   0.25316] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   0.25956] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   0.25971] _al_d3d_sync_bitmap (video) ref count == 2
+dtor     D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\dtor.c:214  _al_unregister_destructor        [   4.87738] removed dtor for object 00B7F428
+dtor     D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\dtor.c:214  _al_unregister_destructor        [   4.87748] removed dtor for object 00B7F858
+bitmap   D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\bitmap.c:822  _al_convert_to_memory_bitmap     [   4.87756] converting display bitmap 00B7F750 to memory bitmap
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   4.87787] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   4.87795] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      W D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_bmp.cpp:677  d3d_destroy_bitmap               [   4.87845] d3d_destroy_bitmap: Release video texture failed.
+bitmap   D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\bitmap.c:822  _al_convert_to_memory_bitmap     [   4.87861] converting display bitmap 01FA1918 to memory bitmap
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   4.87876] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   4.87881] _al_d3d_sync_bitmap (video) ref count == 1
+d3d      W D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:798  d3d_destroy_device               [   4.88974] d3d_destroy_device: ref count not 0
+d3d      I D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\win\d3d_disp.cpp:1705 d3d_display_thread_proc          [   4.93853] d3d display thread exits
+dtor     D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\dtor.c:214  _al_unregister_destructor        [   4.93899] removed dtor for object 00B7F750
+dtor     D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\dtor.c:114  _al_run_destructors              [   4.93905] calling dtor for object 01FA1918, func 6B563D5F
+dtor     D D:\Libraries\build\allegro\src\allegro-5.0.x\allegro-5.0.x\src\dtor.c:214  _al_unregister_destructor        [   4.93909] removed dtor for object 01FA1918
