@@ -8,8 +8,6 @@
 
 using namespace std; 
 
-// rawr
-
 class sprite
 {
     public:
