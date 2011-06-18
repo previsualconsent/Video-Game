@@ -34,26 +34,45 @@ int main(int argc, char **argv)
 
    groundBody->CreateFixture(&groundBox,0);
 
-   b2BodyDef bodyDef;
+   b2BodyDef ballDef;
 
-   bodyDef.type = b2_dynamicBody;
+   ballDef.type = b2_dynamicBody;
 
-   bodyDef.position.Set(0.0f, 0.0f);
+   ballDef.position.Set(0.0f, 0.0f);
 
-   b2Body* body = world.CreateBody(&bodyDef);
+   b2Body* ball = world.CreateBody(&ballDef);
+
+   b2CircleShape dynamicBall;
+
+   dynamicBall.m_radius=0.5f;
+
+   b2FixtureDef ballFixDef;
+
+   ballFixDef.shape = &dynamicBall;
+   ballFixDef.density = 1.0f;
+   ballFixDef.friction = 0.3f;
+   ballFixDef.restitution = 1.0f;
+
+   ball->CreateFixture(&ballFixDef);
+
+   b2BodyDef paddleDef;
+   paddleDef.type = b2_kinematicBody;
+   paddleDef.position.Set(0.0f,(-SCREEN_H/2.0+PADDLE_H/1.0)/10.0);
+
+   b2Body* b2paddle = world.CreateBody(&paddleDef);
 
    b2PolygonShape dynamicBox;
+   dynamicBox.SetAsBox(PADDLE_H/20.0, PADDLE_W/20.0);
 
-   dynamicBox.SetAsBox(1.0f, 1.0f);
-   b2FixtureDef fixtureDef;
+   b2FixtureDef paddleFixDef;
+   paddleFixDef.shape = &dynamicBox;
+   paddleFixDef.density = 1.0f;
+   paddleFixDef.friction = 0.3f;
+   paddleFixDef.restitution = 1.0f;
 
-   fixtureDef.shape = &dynamicBox;
+   b2paddle->CreateFixture(&ballFixDef);
 
-   fixtureDef.density = 1.0f;
-
-   fixtureDef.friction = 0.3f;
-
-   body->CreateFixture(&fixtureDef);
+   
 
    float32 timeStep = 1.0f / 60.0f;
 
@@ -173,8 +192,8 @@ cout << "hello\n";
 
       world.Step(timeStep, velocityIterations, positionIterations);
       world.ClearForces();
-      b2Vec2 position = body->GetPosition();
-      float32 angle = body->GetAngle();
+      b2Vec2 position = ball->GetPosition();
+      float32 angle = ball->GetAngle();
       printf("%4.2f %4.2f %4.2f\n", position.x, position.y, angle);
 
       //Box2D test end
@@ -198,15 +217,15 @@ cout << "hello\n";
              bouncer_ydir = -bouncer_ydir;
              bouncer_speed = bouncer_speed*1.1;
              bouncer.advanceFrame();
-             body->SetLinearVelocity(-body->GetLinearVelocity());
+             //ball->SetLinearVelocity(-ball->GetLinearVelocity());
          }
          if(bouncer_y > SCREEN_H - BOUNCER_SIZE){
-            bouncer_y=bouncer_starty;
+            /*bouncer_y=bouncer_starty;
             bouncer_x=bouncer_startx;
             paddle_x=paddle_startx;
             bouncer_ydir=1;
             bouncer_xdir=1;
-            bouncer_speed=3.0;
+            bouncer_speed=3.0;*/
          }
          if(bouncer_x > SCREEN_W - BOUNCER_SIZE || bouncer_x < 0){
                 bouncer_xdir=-bouncer_xdir;
