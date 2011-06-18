@@ -3,7 +3,7 @@ SOURCES = aniSprite.cpp main.cpp sprite.cpp
 
 CC = g++
 
-LIBS = $(shell (pkg-config --libs allegro_image-5.0))
+LIBS = $(shell (pkg-config --libs allegro_image-5.0 Box2D))
 
 all: servo
 
