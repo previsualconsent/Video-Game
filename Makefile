@@ -5,7 +5,7 @@ OBJECTS=$(SOURCES:.cpp=.o)
 CC = g++
 CFLAGS= -c -Wall
 
-LIBS = $(shell (pkg-config --libs allegro_image-5.0 Box2D))
+LIBS = $(shell (pkg-config --libs allegro_image-5.0)) -lBox2D
 
 all: servo
 
